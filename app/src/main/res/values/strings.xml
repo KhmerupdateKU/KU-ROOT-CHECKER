@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KU Root Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="systeminfo">Android Information:</string>
+    <string name="manufact">Device Name:   </string>
+    <string name="device">Model Name:   </string>
+    <string name="model">Brand Name:   </string>
+    <string name="os">OS Version:    </string>
+    <string name="status">Root Status:</string>
+    <string name="checkroot">Check Root Now</string>
+    <string name="rooted">Your Device is Rooted</string>
+    <string name="unroot">Your Device Not Root Yet</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8909864912435292/7667987760</string>
+
+
+</resources>

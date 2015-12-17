@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KU Root Checker</string>
+    <string name="action_settings">Settings</string>
+    <string name="systeminfo">ព័ត៌មាន​​​អំពីទូរស័ព្ទរបស់អ្នក:</string>
+    <string name="manufact">ឈ្មោះ​ ​ទូរស័ព្ទ:   </string>
+    <string name="device">ឈ្មោះ ម៉ូដែល:   </string>
+    <string name="model">ទូរស័ព្ទម៉ាក:    </string>
+    <string name="os">ជំនាន់ OS:    </string>
+    <string name="status">Root ហើយ រឺ មិនទាន់ Root?</string>
+    <string name="checkroot"> ចុចឆែកមើល Root</string>
+    <string name="rooted">ទូរស័ព្ទរបស់អ្នកបាន​ Root​ រួចហើយ </string>
+    <string name="unroot">ទូរស័ព្ទរបស់អ្នកមិនទាន់បាន​ Root ទេ</string>
+
+
+
+</resources>
